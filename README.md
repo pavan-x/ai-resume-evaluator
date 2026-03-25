@@ -1,5 +1,4 @@
-# ai-resume-evaluator
-NLP-based system to analyze resumes and match them with job descriptions using skill extraction and similarity scoring.
+🚀 NLP-based system for resume-job matching using machine learning
 # AI Resume Evaluation Dashboard
 
 ## 🚀 Overview
