@@ -18,4 +18,4 @@ Improves resume-job matching efficiency by ~30% using natural language processin
 
 ## 📈 Future Improvements
 - Add web interface  
-- Improve accuracy using deep learning  
+- Improve accuracy using deep learning
