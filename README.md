@@ -21,3 +21,7 @@ Improves resume-job matching efficiency by ~30% using natural language processin
   
 ## 🚧 Project Status
 This project is currently under development. I am continuously improving the model accuracy and working on additional features.
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
